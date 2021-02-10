@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/To-Do-list/static/css/main.00b94472.chunk.css",
+    "main.js": "/To-Do-list/static/js/main.95b52630.chunk.js",
+    "main.js.map": "/To-Do-list/static/js/main.95b52630.chunk.js.map",
+    "runtime-main.js": "/To-Do-list/static/js/runtime-main.be2c0ff8.js",
+    "runtime-main.js.map": "/To-Do-list/static/js/runtime-main.be2c0ff8.js.map",
+    "static/js/2.c32c6ded.chunk.js": "/To-Do-list/static/js/2.c32c6ded.chunk.js",
+    "static/js/2.c32c6ded.chunk.js.map": "/To-Do-list/static/js/2.c32c6ded.chunk.js.map",
+    "index.html": "/To-Do-list/index.html",
+    "precache-manifest.1680a05cbb7fd0a8c47a47377c81c313.js": "/To-Do-list/precache-manifest.1680a05cbb7fd0a8c47a47377c81c313.js",
+    "service-worker.js": "/To-Do-list/service-worker.js",
+    "static/css/main.00b94472.chunk.css.map": "/To-Do-list/static/css/main.00b94472.chunk.css.map",
+    "static/js/2.c32c6ded.chunk.js.LICENSE.txt": "/To-Do-list/static/js/2.c32c6ded.chunk.js.LICENSE.txt",
+    "static/media/edit_icon.png": "/To-Do-list/static/media/edit_icon.936f8885.png",
+    "static/media/nav_before.png": "/To-Do-list/static/media/nav_before.67166eb1.png",
+    "static/media/nav_next.png": "/To-Do-list/static/media/nav_next.1fa82738.png",
+    "static/media/save_icon.png": "/To-Do-list/static/media/save_icon.bf13633a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be2c0ff8.js",
+    "static/js/2.c32c6ded.chunk.js",
+    "static/css/main.00b94472.chunk.css",
+    "static/js/main.95b52630.chunk.js"
+  ]
+}
